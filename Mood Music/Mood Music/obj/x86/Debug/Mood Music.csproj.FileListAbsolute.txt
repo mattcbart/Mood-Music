@@ -1,0 +1,11 @@
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\Mood Music.csprojResolveAssemblyReference.cache
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\App.g.i.cs
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\App.g.cs
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\MainPage.g.i.cs
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\MainPage.g.cs
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\App.xaml
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\MainPage.xaml
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\App.xbf
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\MainPage.xbf
+c:\users\mattc\documents\visual studio 2015\Projects\Mood Music\Mood Music\obj\x86\Debug\XamlSaveStateFile.xml
